@@ -1,29 +1,29 @@
 const help = (p, date, user, wame) => {
-return `┏━ ℘ąɬơ ცơɬ ۷5 ━┓
+return `┏━ Linda Shamiko bot ━┓
 ║                                                           
 ║ _*🕐 Fecha: ${date} 🕐*_
 ║ _*👥 Usuario: ${user} 👥*_
 ║ _*🧩 Su link 🧩: ${wame} *_                                        
 ║                                                           
-┣══════ Redes ══════┫
+┣══════ no se que poner ══════┫
 ║
 ║
-║ _Grupo 1 wsp:_
-║ _*🪀 https://bit.ly/3dr6p2P 🪀*_
+║ _pensamientos sanos:_
+║ _*y la bibilia?*_
 ║
-║ _Grupo 2 wsp:_
-║ _*🪀 https://bit.ly/3wiL04v 🪀*_
+║ _Pensamientos impuros:_
+║ _*tengo ganas de follar osi*_
 ║
-║ _📹 𝐘𝐨𝐮𝐭𝐮𝐛𝐞:_
-║ _*🌐 http://bit.ly/mrpato-yt 🌐*_
+║ _📹 wilder se te ama 
+║ _*pollo jon xd*_
 ║
 ┗════════════════════════┛ 
     
 ♆➤ *${p}listblockcmd*
-♆➤ *${p}listpalavra*
+♆➤ *${p}listpalabra*
 ♆➤ *${p}info*
 ♆➤ *${p}ping*
-♆➤ *${p}destrava*
+♆➤ *${p}destraba*
 ♆➤ *${p}sugerircmd* ❮text❯
 ♆➤ *${p}terbot*
 ♆➤ *${p}botvip*
@@ -187,7 +187,7 @@ return `┏━ ℘ąɬơ ცơɬ ۷5 ━┓
 ♆➤ *${p}antidoc* ❮1 or 0❯
 ♆➤ *${p}antiloc* ❮1 or 0❯
 ♆➤ *${p}antiimg* ❮1 or 0❯
-♆➤ *${p}antipalavra* ❮1 or 0❯
+♆➤ *${p}antipalabra* ❮1 or 0❯
 ♆➤ *${p}antivideo* ❮1 or 0❯
 ♆➤ *${p}antisticker* ❮1 or 0❯
 ♆➤ *${p}antiaudio* ❮1 or 0❯
