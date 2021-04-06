@@ -1,13 +1,13 @@
-const ownerNumber = ["17694448714@s.whatsapp.net"] 
+const ownerNumber = ["50377835081@s.whatsapp.net"] 
 // Tú número
 
-const OriginalOwner = '17694448714' 
+const OriginalOwner = '50377835081' 
 // Tú número x2
 
 const apikeyporn = 'fc8fe174f018b95cdae9272493f1a12f'
 // sua key do imgbb para ativar o antiporn
 
-const cr = '℘ąɬơ ცơɬ ۷5\n' 
+const cr = 'Shamiko Bot\n' 
 // texto del menu
 
 const prefix = '!' 
@@ -113,8 +113,8 @@ let mess = {
 const vcard = 'BEGIN:VCARD\n' 
 + 'VERSION:3.0\n' 
 + 'FN:Mi creador\n' 
-+ 'ORG:℘ąɬơ;\n' 
-+ 'TEL;type=CELL;type=VOICE;waid=17694448714:+1 (769) 444-8714\n' 
++ 'ORG:akaza;\n' 
++ 'TEL;type=CELL;type=VOICE;waid=50377835081:+503 7783 5081\n' 
 + 'END:VCARD'
 //vcard do propietário, mude os numeros de acordo com o formato que
 //ele corresponde
